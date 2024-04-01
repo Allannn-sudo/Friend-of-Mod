@@ -9,6 +9,7 @@ Developed during CTB 2020
 
 <img width="1274" alt="截屏2020-03-10下午1 47 34" src="https://github.com/Allannn-sudo/Friend-of-Mod/assets/57735559/d994b74a-2170-462a-977d-4e8e1337b141">
 
+
 In recent years, there are some netizens use internet to harm people which
 called the cyberbully. Our research topic is how the cyberbully will lead to
 depression, because it is key for us to find out the method which can relieve
